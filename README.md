@@ -3,7 +3,7 @@
 - 🌎 `<>Hello World!</>` ☀️
 - 🔭 I’m currently studyind at <b>Generation Brazil</b> 🌱
 - 👨🏽‍💻 Generation Brasil T65 - Developer Full-Stack Java Jr.
-- 📫 How to reach me: lucasbarbato80@gmail.com
+
 
 <br>
 
