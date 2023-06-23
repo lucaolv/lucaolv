@@ -25,11 +25,13 @@
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-
+  </div>
 <br>
 <br>
 
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaolv&layout=compact&langs_count=7&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaolv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <div>
+    <a href="https://github.com/lucaolv">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaolv&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaolv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  </div>
 </div>
