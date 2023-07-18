@@ -27,7 +27,6 @@
     <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   </div>
 <br>
-<br>
 
   <div>
     <a href="https://github.com/lucaolv">
