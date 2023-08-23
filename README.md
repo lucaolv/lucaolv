@@ -1,7 +1,7 @@
 ## Hi there, I'm Lucas Vinícius
 
 - 🌎 `<>Hello World!</>` ☀️
-- 🔭 I’m currently studyind at <b>Generation Brazil</b> 🌱
+- 🔭 I’m currently studyind <b>Analysis and Systems Development</b> 🌱
 - 👨🏽‍💻 Generation Brasil T65 - Developer Full-Stack Java Jr.
 
 
